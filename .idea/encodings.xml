@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="x-windows-949">
+    <file url="file://$PROJECT_DIR$/src/Comment_Panel.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Data.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Draw.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Info_Myinfo.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Pen_Community.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Pen_Friend.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Pen_Login.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Pen_Main.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Pen_Post.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Pen_Sign.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Post_Panel.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Server.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/colorSelector.java" charset="x-windows-949" />
+    <file url="PROJECT" charset="x-windows-949" />
+  </component>
+</project>
